@@ -1,0 +1,12 @@
+//if-statement
+#include<stdio.h>
+int main()
+{
+	int a=1;
+	int b=2;
+	if(a<b)		//test-condition
+	{
+		printf("a is smaller than b");
+	}
+	return 0;
+}
